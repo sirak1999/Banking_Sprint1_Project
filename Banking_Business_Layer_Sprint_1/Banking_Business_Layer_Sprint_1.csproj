@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Banking_Business_Obj_Layer_Sprint_1\Banking_Business_Obj_Layer_Sprint_1.csproj" />
+    <ProjectReference Include="..\Banking_DAL_Sprint_1\Banking_DAL_Sprint_1.csproj" />
+  </ItemGroup>
+
+</Project>
